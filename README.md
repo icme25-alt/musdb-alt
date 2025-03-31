@@ -13,9 +13,9 @@ in the long-form transcripts and short-form merged line timings, as shown above.
 Any words between the opening and closing tags are non-lexical vocables.
 
 ## Summary
-39 Tracks Included
-6 excluded
-5 Not in lyrics extension (not english)
+- 39 Tracks Included
+- 6 excluded
+- 5 Not in lyrics extension (not english)
 - 50 in MUSDB test set
 
 ## Included
