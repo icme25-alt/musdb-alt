@@ -1,9 +1,24 @@
 # Directory strucuture
-- In `segments/test` there are files `{name}.csv` for each song with line timings
+- In `segments/test` there are files `{name}.csv` for each song with merged line timings
 - In `edited_txt/test` there are files `{name}.csv` for each song with long-form 
   transcripts following the Jam-ALT guidelines with inline nonlexical annotations
 
-# Completed
+## Non-lexical annotations
+```
+<nl> (Uh, ah-ja, eh-jo) </nl>
+Ich mach' Musik, Musik
+```
+Non-lexical annotations are provided as inline tags `<nl>` and `</nl>` 
+in the long-form transcripts and short-form merged line timings, as shown above.
+Any words between the opening and closing tags are non-lexical vocables.
+
+## Summary
+39 Tracks Included
+6 excluded
+5 Not in lyrics extension (not english)
+- 50 in MUSDB test set
+
+## Included
 01. `Al James - Schoolboy Fascination`
 02. `AM Contra - Heart Peripheral`
 03. `Angels in Amplifiers - I'm Alright`
@@ -43,23 +58,17 @@
 37. `We Fell From The Sky - Not You`
 38. `Zeno - Signs`
 
-# Not provided
+## Not provided
 1. Enda Reilly - Cur An Long Ag Seol
 2. Arise - Run Run Run
 3. Bobby Nobody - Stitch Up
 4. Buitraker - Revo X
 5. Carlos Gonzalez - A Plac
 
-# Rejected
+## Rejected
 1. `Signe Jakobsen - What Have You Done To Me` 
 2. `PR - Happy Daze`
 3. `PR - Oh No`
 4. `Skelpolu - Resurrection` 
 5. `Timboz - Pony`
 6. `Triviul feat The Fielnd - Widows` 
-
-# Summary
-39 Tracks accepted
-6 excluded
-5 Not in lyrics extension (not english)
-- 50 in MUSDB test set
