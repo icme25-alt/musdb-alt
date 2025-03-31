@@ -58,11 +58,11 @@ Any words between the opening and closing tags are non-lexical vocables.
 38. `Zeno - Signs`
 
 ## Not provided
-1. Enda Reilly - Cur An Long Ag Seol
-2. Arise - Run Run Run
-3. Bobby Nobody - Stitch Up
-4. Buitraker - Revo X
-5. Carlos Gonzalez - A Plac
+1. `Enda Reilly - Cur An Long Ag Seol`
+2. `Arise - Run Run Run`
+3. `Bobby Nobody - Stitch Up`
+4. `Buitraker - Revo X`
+5. `Carlos Gonzalez - A Plac`
 
 ## Rejected
 1. `Signe Jakobsen - What Have You Done To Me` 
